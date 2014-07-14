@@ -1,3 +1,5 @@
+//Code By Nifras Ismail
+
 #include <windows.h>
 #include <gl/Gl.h>
 #include <gl/glut.h>
